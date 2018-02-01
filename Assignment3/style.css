@@ -1,0 +1,300 @@
+html,body,div,p,h1,h2,h3,h4,h5,h6,p,ul,li,ol,blockquote{
+	padding:0px;
+	margin:0px;
+}
+
+/*header menus*/
+.alumni li, .tmenu ul li{
+	list-style-type: none;
+	float:left;
+}
+
+br{
+	clear:both;
+}
+.alumni ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.alumni ul li a{
+	padding: 5px 5px;
+}
+.alumni ul li a{
+	margin-right: 15px;
+}
+div.tmenu{
+	padding:20px 40px;
+    clear:both;
+	box-sizing: border-box;
+}
+div.logo{
+	float:left;
+}
+div.menu{
+	float:right;
+}
+.alumni ul, .tmenu ul{
+	float:right;
+}
+.alumni{
+	background-color:#b9942b;
+}
+.alumni,.tmenu{
+	width:1920px;
+}
+.alumni{
+	font-size: 32px;
+}
+.menu div{
+	float:right;
+	margin-bottom:25px;
+}
+.menu ul{
+	font-size: 28px;
+}
+.menu ul li {
+	padding:12px 30px;
+	border-left:1px solid black;
+}
+.menu ul li:first-child {
+	border:none;	
+}
+.menu ul li:third-child{
+	text-decoration:none;
+	color: #b9942b;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:black;
+}
+.menu div button{
+	padding: 10px 70px;
+	border-radius:5px;
+	font-size: 32px;
+	color:#fff;
+	background-color: #929aa0;
+}
+.menu ul{
+	clear:both;
+}
+.tmenu ul li{
+	padding-left: 38px;
+}
+
+/*banner menus*/
+div.mainbanner{
+	background-image: url("images/Untitled-1_03.jpg");
+	width: 1920px;
+}
+
+div.bannercontent{
+   width: 1520pxx;
+  border: :2px solid black;
+  margin:auto;
+}
+
+
+}
+.bannerimg{
+	float: left;
+    margin-left:200px;
+    margin-top:70px;  
+
+}
+.content {
+    background color: #3e3e3e;
+    margin-right: 230px: 
+
+	}
+.content{
+	width:370px;
+	float:left;
+	clear: both;
+}
+
+.collegecampus{
+	margin-left: 200px;
+	margin-bottom: 90px; 
+
+}
+.examresults{
+   background-color: #434343;
+   padding: 10px;
+}
+.examresults{
+	font-size: 30px;
+	color: #ffffff;
+}
+.examresults p{
+	margin-top: 12px;
+	margin-bottom: 110px;
+	margin-left: 10px;
+	margin-right: 100px;
+}
+
+.placements{
+	background-color: #c6ab55;
+	font-size: 30px;
+	color: #ffffff;
+	padding: 10px;
+}
+.placements{
+	margin-bottom: 90px;
+}
+.placements p{
+	margin-top: 12px;
+	margin-bottom: 110px;
+	margin-left: 10px;
+	margin-right: 100px;
+}
+
+
+
+/*courses menu*/
+.courses{
+	width: 1920px;
+}
+.coursetitle{
+	font-size: 30px;
+
+}
+
+.courses ul li{
+	list-style-type: none;
+	float:left;
+}
+
+.courses h3{
+	text-align: center;
+	background-color: black;
+	color: #ffffff;
+
+}
+.courses{
+
+	margin-left: 190px;
+	margin-right: 190px;
+
+}
+.Btech{
+	float: left;
+	width: 25%;
+	margin-left:195px; 
+}
+.syllabus1{
+	padding: 10px 10px;  
+}
+.syllabus1{
+	background-color:#ed7d61; 
+}
+.syllabus1 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus1 ul li a{
+	padding:1px 20px;
+	border-left:1px solid white;
+}
+.syllabus1 ul li a{
+	text-decoration: none;
+}
+.syllabus1 button{
+	color: #ffffff;
+	margin-left: 130px;
+	background-color:#ed7d61;
+}
+
+.Mtech{
+	float: left;
+	width: 25%;
+}
+.syllabus2{
+	padding: 10px 10px;  
+}
+.syllabus2{
+	background-color:#f7cc87; 
+}
+.syllabus2 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus2 ul li a{
+	padding:1px 20px;
+	border-left:1px solid white;
+}
+.syllabus2 ul li a{
+	text-decoration: none;
+}
+.syllabus2 button{
+	color: #ffffff;
+	margin-left: 130px;
+	background-color:#f7cc87;
+}
+
+
+
+
+
+.mba{
+	float: left;
+	width: 25%;
+}
+
+.syllabus3{
+	padding: 10px 10px;  
+}
+.syllabus3{
+	background-color:#37bb75; 
+}
+.syllabus3 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus3 ul li a{
+	padding:1px 20px;
+	border-left:1px solid white;
+}
+.syllabus3 ul li a{
+	text-decoration: none;
+}
+.syllabus3 button{
+	color: #ffffff;
+	margin-left: 130px;
+	background-color:#37bb75;
+}
+
+
+
+
+/*facilities*/
+.facilities{
+	width: 1920px;
+}
+.images{
+	margin-left: 250px;
+	margin-right: 85px;
+	margin-top: 85px;
+	margin-bottom: 75px;
+}
+.paragraph {
+	width: 800px;
+	height: 290px;
+	float :left; 
+}
+.paragraph {
+	margin-top: 80px;
+	margin-bottom: 75px;
+	margin-right: 200px;
+}
+.paragraph {
+	text-decoration: none;
+}
+
+
+
+
+
+/*ending part*/
+.endingpart{
+	width: 1920px;
+}
