@@ -1,0 +1,476 @@
+html,body,div,p,h1,h2,h3,h4,h5,h6,p,ul,li,ol,blockquote{
+	padding:0px;
+	margin:0px;
+}
+
+/*header menus*/
+.alumni li, .tmenu ul li{
+	list-style-type: none;
+	float:left;
+}
+
+br{
+	clear:both;
+}
+.alumni ul li a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.alumni ul li a{
+	padding: 5px 5px;
+}
+.alumni ul li a{
+	margin-right: 15px;
+}
+div.tmenu{
+	padding:20px 40px;
+    clear:both;
+	box-sizing: border-box;
+}
+div.logo{
+	float:left;
+}
+div.menu{
+	float:right;
+}
+.alumni ul, .tmenu ul{
+	float:right;
+}
+.alumni{
+	background-color:#b9942b;
+}
+.alumni,.tmenu{
+	width:1920px;
+}
+.alumni{
+	font-size: 32px;
+}
+.menu div{
+	float:right;
+	margin-bottom:25px;
+}
+.menu ul{
+	font-size: 28px;
+}
+.menu ul li {
+	padding:12px 30px;
+	border-left:1px solid black;
+}
+.menu ul li:first-child {
+	border:none;	
+}
+.menu ul li:nth-child(3){
+	text-decoration:none;
+	color: #b9942b;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:black;
+}
+.menu div button{
+	padding: 10px 70px;
+	border-radius:5px;
+	font-size: 32px;
+	color:#fff;
+	background-color: #929aa0;
+}
+.menu ul{
+	clear:both;
+}
+.tmenu ul li{
+	padding-left: 38px;
+}
+
+/*banner menus*/
+div.mainbanner{
+	background-image: url("images/Untitled-1_03.jpg");
+	width: 1920px;
+}
+
+div.bannercontent{
+   width: 1520px;
+  border: 2px solid transparent;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.banner{
+	width:1420px;
+	margin: auto 20px;
+	border: 2px solid transparent;
+}
+.bannerimg{
+  float: left;
+  width:850px;
+  margin: 10px;
+
+}
+.content{
+	float: right;
+	margin: 10px;
+	background-color: #434343;
+	padding: 20px 20px;
+
+}
+
+.content ul li{
+    background color:#3e3e3e;
+    width:280px;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    list-style-type: none;
+	}
+.content h2{
+	text-align: center;
+	 font-size:30px;
+	 color: #ffffff;
+}
+.content br{
+	clear: both;
+
+}
+
+.collegecampusimg{
+	float: left;
+}
+
+.examplace{
+	float: left;
+}
+.examresults{
+   background-color: #434343;
+   padding: 10px;
+   margin: 8px;
+}
+.examresults{
+	font-size: 30px;
+	color: #ffffff;
+	height: 150px;
+	width: 300px;
+}
+
+.placements{
+	background-color: #c6ab55;
+	font-size: 30px;
+	color: #ffffff;
+	padding: 8px;
+}
+.placements{
+	margin: 8px;
+	height: 150px;
+	width: 300px;
+}
+.classroom{
+	float: left; 
+	background-color: gray;
+	margin: 10px;
+}
+.classroomimg{
+	float: left;
+	 
+}
+.eventpart{
+	float: left;
+	
+}
+.eventpart p{
+	float: left;
+	height: 340px;
+	font-size: 35px;
+	color: #ffffff;
+}
+
+/*courses menu*/
+.courses{
+	width: 1550px;
+	margin: auto;
+}
+.coursetitle h2{
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.courses ul li{
+	list-style-type: none;
+	float:left;
+}
+
+.courses h3{
+	text-align: center;
+	background-color: black;
+	color: #ffffff;
+
+}
+.courses{
+
+	margin-left: 190px;
+	margin-right: 190px;
+
+}
+.Btech{
+	float: left;
+	margin: 8px;
+}
+.syllabus1{
+	padding: 10px 10px;  
+}
+.syllabus1{
+	background-color:#ed7d61; 
+}
+.syllabus1 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus1 ul li a{
+	padding:5px 30px;
+	border-left:1px solid white;
+}
+.syllabus1 ul li a{
+	text-decoration: none;
+}
+.syllabus1 button{
+	color: #ffffff;
+	margin-left: 170px;
+	background-color:#ed7d61;
+	padding: 12px;
+}
+
+.Mtech{
+	float: left;
+	margin: 8px;
+
+}
+.syllabus2{
+	padding: 10px 10px;  
+}
+.syllabus2{
+	background-color:#f7cc87; 
+}
+.syllabus2 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus2 ul li a{
+	padding:5px 30px;
+	border-left:1px solid white;
+}
+.syllabus2 ul li a{
+	text-decoration: none;
+}
+.syllabus2 button{
+	color: #ffffff;
+	margin-left: 170px;
+	background-color:#f7cc87;
+	padding: 12px;
+}
+
+
+
+
+
+.mba{
+	float: left;
+	margin: 8px;
+
+}
+
+.syllabus3{
+	padding: 10px 10px;  
+}
+.syllabus3{
+	background-color:#37bb75; 
+}
+.syllabus3 ul li a {
+  font-size: 15px;
+  color: #ffffff;
+}
+.syllabus3 ul li a{
+	padding:5px 30px;
+	border-left:1px solid white;
+}
+.syllabus3 ul li a{
+	text-decoration: none;
+}
+.syllabus3 button{
+	color: #ffffff;
+	margin-left: 170px;
+	background-color:#37bb75;
+	padding: 12px;
+}
+
+
+
+
+/*facilities*/
+.facilities{
+	width: 1550px;
+	margin: auto;
+}
+.facilitiestitle h2{
+	font-size: 30px;
+	padding:20px 30px;
+	text-align: center;	
+}
+.images{
+	float: left;
+    padding: 30px 30px;
+    margin-left: 300px;
+}
+.paragraph p{
+	width: 350px;
+	float: left;
+	font-size: 22px;
+	padding :50px 50px;
+}
+
+
+
+
+/*ending part*/
+.endingpart{
+	width: 1920px;
+	background-color:#3e3e3e;
+	margin: auto;
+}
+.quicklinks{
+	width: 600px;
+	float: left;
+	padding: 20px 20px;
+}
+.green h4{
+
+     background-color:#37bb75;
+     text-decoration: none;
+     text-align: center;
+    font-size: 20px;
+	color: #ffffff;
+	width: 200px;
+	padding: 12px 5px;
+	border-radius: 5px;
+}
+.links ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 30px 30px;
+	font-size: 30px;
+}
+.links ul li{
+	list-style-type: none;
+}
+
+.events{
+	width: 600px;
+	float: left;
+	padding: 20px 20px;
+
+}
+.orange h4{
+	background-color:#f7cc87;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+	color: #ffffff;
+	width: 200px;
+	padding: 12px 5px;
+	border-radius: 5px;
+}
+.events{
+	background-color: solid black;
+	color: #ffffff;
+	margin: auto;
+}
+
+.event1image{
+	float: left;
+}
+.event1content{
+	float: left;
+}
+.event2image{
+	float: left;
+}
+.event2content{
+	float: left;
+}
+.event3image{
+	float: left;
+}
+.event3content{
+	float: left;
+}
+.event4image{
+	float: left;
+}
+.event4content{
+	float: left;
+}
+
+.event1content,.event2content,.event3content, .event4content ul{
+	list-style-type: none;
+}
+
+.event1 , .event2 , .event3 , .event4{
+	margin:15px;
+}
+.contactus{
+	float: left;
+}
+.contactus{
+	width: 600px;
+	padding: 20px 20px;
+	color: #ffffff;
+	text-decoration: none;
+
+}
+
+.peach h4{
+   background-color:#ed7d61;
+   text-decoration: none;
+   font-size: 20px;
+   text-align: center;
+	color: #ffffff;
+	width: 200px;
+	padding: 12px 5px;
+	border-radius: 5px;
+}
+.addressinfo ul li {
+	font-size: 30px;
+	padding: 2px 2px;
+	color: #ffffff;
+	list-style-type: none;
+}
+.location{
+	padding: 5px 5px;
+}
+.logos a{
+	padding:7px 7px;
+}
+
+/*footer part*/
+
+.footer{
+	width: 1920px;
+	background-color:#2a2a2a;
+	height: 40px;
+}
+.footer ul li a {
+	color: #ffffff;
+	font-size: 25px;
+	margin-left: 40px;
+	padding: 50px;
+	text-decoration: none;
+	
+}
+.footer ul li{
+	list-style-type: none;
+}
+ .footer li{
+ 	float: left;
+ 
+ }
+ 
